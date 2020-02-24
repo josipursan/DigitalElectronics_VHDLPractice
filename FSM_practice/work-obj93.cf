@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "56675b10c6d4e49fa9c36760ec401e001cd2a2c0" "20190524120825.752":
+  entity tb at 1( 0) + 0 on 17;
+  architecture arch of tb at 7( 72) + 0 on 18;
+file . "zadatak.vhdl" "bfaee77f9fca5a2778395f41c770c741fbd43c80" "20190524120809.333":
+  entity zadatak at 1( 0) + 0 on 15;
+  architecture arch of zadatak at 12( 189) + 0 on 16;

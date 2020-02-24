@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "528096c618fbf5a4c00d90d57f1fa74ffa4578d1" "20190528114421.780":
+  entity tb at 1( 0) + 0 on 25;
+  architecture arch of tb at 7( 72) + 0 on 26;
+file . "djelitelj.vhdl" "17c7cdc7de4fd7e3c54b946a7c43b43c39bf6c64" "20190528114409.285":
+  entity djelitelj at 1( 0) + 0 on 23;
+  architecture arch of djelitelj at 13( 214) + 0 on 24;

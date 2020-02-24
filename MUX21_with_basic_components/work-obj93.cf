@@ -1,0 +1,16 @@
+v 4
+file . "mux_21_osnovni_sklopovi.vhdl" "c5a0d8e3f63935d17b6577ed072507efd0dfc27d" "20190416104940.507":
+  entity mux_21_osnovni_sklopovi at 1( 0) + 0 on 27;
+  architecture arch of mux_21_osnovni_sklopovi at 11( 204) + 0 on 28;
+file . "tb.vhdl" "468de4bd496cfb24bc500e5fdc45133527c9fa49" "20190416105006.358":
+  entity tb at 1( 0) + 0 on 29;
+  architecture arch of tb at 7( 72) + 0 on 30;
+file . "or_sklop.vhdl" "3644fa77e41df652c968100f201ada780b644069" "20190416103752.101":
+  entity or_sklop at 1( 0) + 0 on 13;
+  architecture arch of or_sklop at 10( 135) + 0 on 14;
+file . "and_sklop.vhdl" "dc88cb7a2ce44677b0174e01da435e3e14e45626" "20190416104912.370":
+  entity and_sklop at 1( 0) + 0 on 25;
+  architecture arch of and_sklop at 10( 140) + 0 on 26;
+file . "invertor.vhdl" "e3a36a8d2971f7a1d1e5b56c93ebdf59fc5ae293" "20190416103757.858":
+  entity invertor at 1( 0) + 0 on 15;
+  architecture arch of invertor at 10( 134) + 0 on 16;

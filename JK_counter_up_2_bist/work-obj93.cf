@@ -1,0 +1,13 @@
+v 4
+file . "tb.vhdl" "aa5f8d925414e4857a6a239af77ff64af57ea877" "20190426142212.237":
+  entity tb at 1( 0) + 0 on 33;
+  architecture arch of tb at 7( 72) + 0 on 34;
+file . "and.vhdl" "32e001f2f7da23233e5fd64e4201e2d878da4ee6" "20190426141252.032":
+  entity and_sklop at 1( 0) + 0 on 13;
+  architecture arch of and_sklop at 12( 142) + 0 on 14;
+file . "JK_brojilo.vhdl" "4f0d437b7d9429ebf12402a8ffae970d3f63f3e1" "20190426142130.662":
+  entity jk at 1( 0) + 0 on 29;
+  architecture arch of jk at 12( 143) + 0 on 30;
+file . "brojilo_gore.vhdl" "f1cc0895c790e10dc3bf224ac080fce7a1dc817b" "20190426142155.150":
+  entity brojilo at 1( 0) + 0 on 31;
+  architecture arch of brojilo at 11( 153) + 0 on 32;

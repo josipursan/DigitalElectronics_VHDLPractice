@@ -1,0 +1,14 @@
+d - data vector
+a - address varijabla
+e - enable varijabla
+y - izlaz
+
+d, tj. data vector sadrzi ulazne varijable, i on moze biti 0 ili 1, tj. preko njega znamo koji ulaz se odabire.
+a, tj. address varijabla sluzi za izbor ulaza
+e - pali ili gasi mux
+y - izlaz
+
+Ako je enable 0, na izlaz stavi 0 jer jer mux iskljucen.
+U protivnom, ako je address varijabla postavljena u 0, iz data vectora stavi na izlaz ono sto je na adresi nula, tj. d(0)
+Ako je address varijabla postavljena u 1, iz data vectora stavi ono sto je na adresi 1, tj. d(1)
+U protivnom, opet na izlaz stavi nulu.

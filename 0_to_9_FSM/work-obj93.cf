@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "65b10970aea149ccd8b5f7c77674810e76e69f9f" "20190524114444.216":
+  entity tb at 1( 0) + 0 on 13;
+  architecture arch of tb at 7( 72) + 0 on 14;
+file . "zadatak.vhdl" "558446c850fb0b4a3ae2599b0c37ff4ba7b7056f" "20190524114413.501":
+  entity counter at 1( 0) + 0 on 11;
+  architecture arch of counter at 11( 157) + 0 on 12;

@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "9c8ab09c1d4ba9241045e256ea27ce271f41a3e5" "20190408142757.039":
+  entity tb at 1( 0) + 0 on 21;
+  architecture arch of tb at 8( 74) + 0 on 22;
+file . "sklop_AND_NOT.vhdl" "3269352f61aff8a60a8e1a619f8dc8c3fcd05f25" "20190408142749.175":
+  entity sklop_and_not at 1( 0) + 0 on 19;
+  architecture arch of sklop_and_not at 13( 163) + 0 on 20;

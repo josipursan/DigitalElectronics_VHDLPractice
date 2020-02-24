@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "8ff9d8d345f2736fc80edec68e4ebd18afe78ab4" "20190528082731.725":
+  entity tb at 1( 0) + 0 on 13;
+  architecture arch of tb at 7( 72) + 0 on 14;
+file . "brojilo.vhdl" "d15c519d3aa41d9576c6a7a95dcee9bc8b2def28" "20190528082638.350":
+  entity brojilo at 1( 0) + 0 on 11;
+  architecture arch of brojilo at 11( 163) + 0 on 12;

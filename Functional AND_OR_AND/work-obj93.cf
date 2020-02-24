@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "ceb6ff934f0025aa967ea61f22aa3e69eb3618ba" "20190409133913.631":
+  entity tb at 1( 0) + 0 on 15;
+  architecture arch of tb at 7( 72) + 0 on 16;
+file . "sklop_funkcijski.vhdl" "21a4a14a3c1265730f3c33205535d9f371fcec4f" "20190409133753.903":
+  entity sklop_funkcijski at 1( 0) + 0 on 13;
+  architecture arch of sklop_funkcijski at 9( 150) + 0 on 14;

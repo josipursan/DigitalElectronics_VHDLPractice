@@ -1,0 +1,7 @@
+v 4
+file . "tb.vhdl" "de3a62f64f9a2b03497512d79db2297eb9c85488" "20190408125837.610":
+  entity tb at 1( 0) + 0 on 13;
+  architecture test of tb at 8( 74) + 0 on 14;
+file . "sklopAND.vhdl" "d71a7a714a08dc5d7d5e9747ac658ceeb70c5796" "20190408125746.305":
+  entity sklopand at 1( 0) + 0 on 11;
+  architecture arch1 of sklopand at 9( 131) + 0 on 12;

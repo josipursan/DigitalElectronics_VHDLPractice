@@ -1,0 +1,10 @@
+v 4
+file . "brojilo.vhdl" "214afd1e1d0d53714c2c1a1cdff011f19205fbf9" "20190602105454.835":
+  entity brojilo at 1( 0) + 0 on 33;
+  architecture arch of brojilo at 13( 263) + 0 on 34;
+file . "T.vhdl" "a6642062d4b7a5ab04650e1fec59b1e9cf29dcea" "20190602105442.969":
+  entity t_bist at 1( 0) + 0 on 31;
+  architecture arch of t_bist at 12( 148) + 0 on 32;
+file . "tb.vhdl" "43e4f2aa834ff6bd08d1586506c823b6815d0cee" "20190602105559.246":
+  entity tb at 1( 0) + 0 on 37;
+  architecture arch of tb at 7( 72) + 0 on 38;

@@ -1,0 +1,254 @@
+$date
+  Fri Apr 26 16:22:19 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb $end
+$var reg 1 ! clk $end
+$var reg 1 " out_put $end
+$var reg 1 # out_put_n $end
+$scope module uut $end
+$var reg 1 $ clk $end
+$var reg 1 % out_put $end
+$var reg 1 & out_put_n $end
+$var reg 1 ' int_signal_clk $end
+$var reg 1 ( int_signal_and $end
+$var reg 1 ) output_and $end
+$scope module jk1 $end
+$var reg 1 * clk $end
+$var reg 1 + j $end
+$var reg 1 , k $end
+$var reg 1 - reset $end
+$var reg 1 . q $end
+$var reg 1 / nq $end
+$var reg 1 0 qtemp $end
+$var reg 1 1 nqtemp $end
+$upscope $end
+$scope module jk2 $end
+$var reg 1 2 clk $end
+$var reg 1 3 j $end
+$var reg 1 4 k $end
+$var reg 1 5 reset $end
+$var reg 1 6 q $end
+$var reg 1 7 nq $end
+$var reg 1 8 qtemp $end
+$var reg 1 9 nqtemp $end
+$upscope $end
+$scope module and_sklop $end
+$var reg 1 : a $end
+$var reg 1 ; b $end
+$var reg 1 < y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+1'
+1(
+0)
+0*
+1+
+1,
+0-
+0.
+1/
+00
+11
+12
+13
+14
+05
+06
+17
+08
+19
+1:
+0;
+0<
+#500000
+1!
+1"
+1$
+1%
+0'
+1*
+1.
+0/
+10
+01
+02
+#1000000
+0!
+0$
+0*
+#1500000
+1!
+0"
+1#
+1$
+0%
+1&
+1'
+0(
+1*
+0.
+1/
+00
+11
+12
+16
+07
+18
+09
+0:
+#2000000
+0!
+0$
+0*
+#2500000
+1!
+1"
+1$
+1%
+0'
+1*
+1.
+0/
+10
+01
+02
+#3000000
+0!
+0$
+0*
+#3500000
+1!
+0"
+0#
+1$
+0%
+0&
+1'
+1(
+1*
+0.
+1/
+00
+11
+12
+06
+17
+08
+19
+1:
+#4000000
+0!
+0$
+0*
+#4500000
+1!
+1"
+1$
+1%
+0'
+1*
+1.
+0/
+10
+01
+02
+#5000000
+0!
+0$
+0*
+#5500000
+1!
+0"
+1#
+1$
+0%
+1&
+1'
+0(
+1*
+0.
+1/
+00
+11
+12
+16
+07
+18
+09
+0:
+#6000000
+0!
+0$
+0*
+#6500000
+1!
+1"
+1$
+1%
+0'
+1*
+1.
+0/
+10
+01
+02
+#7000000
+0!
+0$
+0*
+#7500000
+1!
+0"
+0#
+1$
+0%
+0&
+1'
+1(
+1*
+0.
+1/
+00
+11
+12
+06
+17
+08
+19
+1:
+#8000000
+0!
+0$
+0*
+#8500000
+1!
+1"
+1$
+1%
+0'
+1*
+1.
+0/
+10
+01
+02
+#9000000

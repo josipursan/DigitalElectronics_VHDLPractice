@@ -1,0 +1,7 @@
+v 4
+file . "semafor.vhdl" "820b7b3b0927e80e727d89e4c85bdf773357e637" "20190520110558.552":
+  entity sem_fsm at 1( 0) + 0 on 11;
+  architecture arch of sem_fsm at 11( 162) + 0 on 12;
+file . "tb.vhdl" "1926a7edd174248b11f4fadfc6cda1fbec669e8d" "20190520110651.338":
+  entity tb at 1( 0) + 0 on 15;
+  architecture arch of tb at 7( 72) + 0 on 16;

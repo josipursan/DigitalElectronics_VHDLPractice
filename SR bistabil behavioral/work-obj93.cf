@@ -1,0 +1,7 @@
+v 4
+file . "sr_bistabil_ponasajni.vhdl" "41dc14324aa2d8d440577398aca877f9680fddc4" "20190417075140.339":
+  entity sr_bistabil_ponasajni at 1( 0) + 0 on 15;
+  architecture arch of sr_bistabil_ponasajni at 9( 166) + 0 on 16;
+file . "tb.vhdl" "5d7d1c2eb6583933c127e94971e8a2d4378c4899" "20190417075316.703":
+  entity tb at 1( 0) + 0 on 19;
+  architecture arch of tb at 7( 72) + 0 on 20;

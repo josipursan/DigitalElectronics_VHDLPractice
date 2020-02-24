@@ -1,0 +1,498 @@
+$date
+  Sat Apr 27 11:28:35 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb $end
+$var reg 1 ! clk $end
+$var reg 1 " out_b0 $end
+$var reg 1 # out_b1 $end
+$var reg 1 $ out_b2 $end
+$var reg 1 % out_b3 $end
+$scope module uut $end
+$var reg 1 & clk $end
+$var reg 1 ' out_b0 $end
+$var reg 1 ( out_b1 $end
+$var reg 1 ) out_b2 $end
+$var reg 1 * out_b3 $end
+$var reg 1 + int1 $end
+$var reg 1 , int2 $end
+$var reg 1 - int3 $end
+$var reg 1 . and1 $end
+$var reg 1 / y $end
+$scope module b0 $end
+$var reg 1 0 j $end
+$var reg 1 1 k $end
+$var reg 1 2 clk $end
+$var reg 1 3 reset $end
+$var reg 1 4 q $end
+$var reg 1 5 nq $end
+$var reg 1 6 qtemp $end
+$var reg 1 7 nqtemp $end
+$upscope $end
+$scope module b1 $end
+$var reg 1 8 j $end
+$var reg 1 9 k $end
+$var reg 1 : clk $end
+$var reg 1 ; reset $end
+$var reg 1 < q $end
+$var reg 1 = nq $end
+$var reg 1 > qtemp $end
+$var reg 1 ? nqtemp $end
+$upscope $end
+$scope module b2 $end
+$var reg 1 @ j $end
+$var reg 1 A k $end
+$var reg 1 B clk $end
+$var reg 1 C reset $end
+$var reg 1 D q $end
+$var reg 1 E nq $end
+$var reg 1 F qtemp $end
+$var reg 1 G nqtemp $end
+$upscope $end
+$scope module b3 $end
+$var reg 1 H j $end
+$var reg 1 I k $end
+$var reg 1 J clk $end
+$var reg 1 K reset $end
+$var reg 1 L q $end
+$var reg 1 M nq $end
+$var reg 1 N qtemp $end
+$var reg 1 O nqtemp $end
+$upscope $end
+$scope module and_sklop $end
+$var reg 1 P a $end
+$var reg 1 Q b $end
+$var reg 1 R c $end
+$var reg 1 S d $end
+$var reg 1 T y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+1+
+1,
+1-
+1.
+0/
+10
+11
+02
+03
+04
+15
+06
+17
+18
+19
+1:
+0;
+0<
+1=
+0>
+1?
+1@
+1A
+1B
+0C
+0D
+1E
+0F
+1G
+1H
+1I
+1J
+0K
+0L
+1M
+0N
+1O
+1P
+0Q
+0R
+0S
+0T
+#500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#1000000
+0!
+0&
+02
+#1500000
+1!
+0"
+1#
+1&
+0'
+1(
+1+
+0,
+12
+04
+15
+06
+17
+1:
+1<
+0=
+1>
+0?
+0B
+#2000000
+0!
+0&
+02
+#2500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#3000000
+0!
+0&
+02
+#3500000
+1!
+0"
+0#
+1$
+1&
+0'
+0(
+1)
+1+
+1,
+0-
+12
+04
+15
+06
+17
+1:
+0<
+1=
+0>
+1?
+1B
+1D
+0E
+1F
+0G
+0J
+#4000000
+0!
+0&
+02
+#4500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#5000000
+0!
+0&
+02
+#5500000
+1!
+0"
+1#
+1&
+0'
+1(
+1+
+0,
+12
+04
+15
+06
+17
+1:
+1<
+0=
+1>
+0?
+0B
+#6000000
+0!
+0&
+02
+#6500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#7000000
+0!
+0&
+02
+#7500000
+1!
+0"
+0#
+0$
+1%
+1&
+0'
+0(
+0)
+1*
+1+
+1,
+1-
+0.
+12
+04
+15
+06
+17
+1:
+0<
+1=
+0>
+1?
+1B
+0D
+1E
+0F
+1G
+1J
+1L
+0M
+1N
+0O
+0P
+#8000000
+0!
+0&
+02
+#8500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#9000000
+0!
+0&
+02
+#9500000
+1!
+0"
+1#
+1&
+0'
+1(
+1+
+0,
+12
+04
+15
+06
+17
+1:
+1<
+0=
+1>
+0?
+0B
+#10000000
+0!
+0&
+02
+#10500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#11000000
+0!
+0&
+02
+#11500000
+1!
+0"
+0#
+1$
+1&
+0'
+0(
+1)
+1+
+1,
+0-
+12
+04
+15
+06
+17
+1:
+0<
+1=
+0>
+1?
+1B
+1D
+0E
+1F
+0G
+0J
+#12000000
+0!
+0&
+02
+#12500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#13000000
+0!
+0&
+02
+#13500000
+1!
+0"
+1#
+1&
+0'
+1(
+1+
+0,
+12
+04
+15
+06
+17
+1:
+1<
+0=
+1>
+0?
+0B
+#14000000
+0!
+0&
+02
+#14500000
+1!
+1"
+1&
+1'
+0+
+12
+14
+05
+16
+07
+0:
+#15000000
+0!
+0&
+02
+#15500000
+1!
+0"
+0#
+0$
+0%
+1&
+0'
+0(
+0)
+0*
+1+
+1,
+1-
+1.
+12
+04
+15
+06
+17
+1:
+0<
+1=
+0>
+1?
+1B
+0D
+1E
+0F
+1G
+1J
+0L
+1M
+0N
+1O
+1P
+#16000000

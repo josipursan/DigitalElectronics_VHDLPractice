@@ -1,0 +1,13 @@
+v 4
+file . "tb.vhdl" "e2d5376b8ad55901da174cb705ce29b6d962c891" "20190409131458.114":
+  entity tb at 1( 0) + 0 on 25;
+  architecture arch of tb at 7( 72) + 0 on 26;
+file . "SklopAND.vhdl" "3e5f935a6c78c39d58d4df0ca0191068def77960" "20190409123326.571":
+  entity sklopand at 1( 0) + 0 on 21;
+  architecture arch of sklopand at 9( 131) + 0 on 22;
+file . "SklopOR.vhdl" "db2e9ca857e1ca0c720fbcc6374f7ba967bcb780" "20190409123323.365":
+  entity sklopor at 1( 0) + 0 on 19;
+  architecture arch of sklopor at 9( 129) + 0 on 20;
+file . "AND_OR_AND.vhdl" "d159538c1b869cd954fbf0a5aab8f33f51c24983" "20190409123511.286":
+  entity and_or_and at 1( 0) + 0 on 23;
+  architecture arch of and_or_and at 9( 138) + 0 on 24;

@@ -1,0 +1,90 @@
+$date
+  Wed Apr 17 09:53:23 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb $end
+$var reg 1 ! s $end
+$var reg 1 " r $end
+$var reg 1 # cp $end
+$var reg 1 $ q $end
+$var reg 1 % nq $end
+$scope module sr $end
+$var reg 1 & s $end
+$var reg 1 ' r $end
+$var reg 1 ( cp $end
+$var reg 1 ) q $end
+$var reg 1 * nq $end
+$var reg 1 + intq $end
+$var reg 1 , intqn $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+X!
+X"
+X#
+0$
+1%
+X&
+X'
+X(
+0)
+1*
+0+
+1,
+#1000000
+0!
+0"
+0#
+0&
+0'
+0(
+#2000000
+1#
+1(
+#3000000
+1"
+0#
+1'
+0(
+#4000000
+1#
+1(
+#5000000
+1!
+0"
+0#
+1&
+0'
+0(
+#6000000
+1#
+1$
+0%
+1(
+1)
+0*
+#7000000
+1"
+0#
+1'
+0(
+#8000000
+0!
+1#
+0$
+1%
+0&
+1(
+0)
+1*
+#9000000
